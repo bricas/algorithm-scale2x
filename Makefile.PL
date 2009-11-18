@@ -11,5 +11,4 @@ all_from 'lib/Algorithm/Scale2x.pm';
 
 test_requires 'Test::More';
 
-auto_install;
 WriteAll;

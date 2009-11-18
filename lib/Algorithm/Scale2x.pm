@@ -5,7 +5,7 @@ use warnings;
 
 use base qw( Exporter );
 
-our $VERSION   = '0.03';
+our $VERSION   = '0.04';
 our @EXPORT_OK = qw( scale2x scale3x );
 
 =head1 NAME
@@ -139,7 +139,7 @@ Brian Cassidy E<lt>bricas@cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2008 by Brian Cassidy
+Copyright 2007-2009 by Brian Cassidy
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself. 
